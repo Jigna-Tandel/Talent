@@ -1461,3 +1461,23 @@ div.ReactTags__selected a.ReactTags__remove {
     margin-bottom: 10px;
 }
 /*Manage jobs - End*/
+ul.item {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px;
+    overflow: hidden;
+  }
+  
+  li.item {
+   
+    float: left;
+  }
+  
+  li a.link.item {
+    
+    padding-left:20px;
+    font-size: 17px;
+    
+    text-decoration: underline;
+    cursor:pointer;
+  }
